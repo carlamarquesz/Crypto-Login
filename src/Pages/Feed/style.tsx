@@ -58,7 +58,6 @@ export const ButtonLogin = styled.button`
   font-size: 1rem;
   line-height: 20px;
   font-weight: 700;
-  cursor: pointer;
 `;
 
 export const Divisor = styled.div`
